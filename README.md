@@ -93,35 +93,3 @@ VGG16相比AlexNet的一个改进是**采用连续的几个3x3的卷积核代替
 训练结果表名，VGG模型在花卉识别上优于AlexNet模型。
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# VGG-AlexNet-Flower-classification-experiment
-# VGG-AlexNet-Flower-classification-experiment
-# VGG-AlexNet-Flower-classification-experiment
